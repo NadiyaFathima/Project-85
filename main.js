@@ -136,8 +136,5 @@ function right()
 	}
 
 }
-function message(){
-	alert("!! CAUTION !! Occupied Spot");
-	console.log("No Parking Allowed - Occupied Spot");
-}
+
 
